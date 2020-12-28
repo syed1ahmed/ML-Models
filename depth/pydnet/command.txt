@@ -1,0 +1,1 @@
+python webcam.py --checkpoint_dir ./checkpoint/IROS18/pydnet --resolution [1,2,3]
